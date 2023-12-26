@@ -1,0 +1,317 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/modelsim/modelsim_dlx64_10.6c/examples
+vAdd
+Z0 !s110 1702547107
+!i10b 1
+!s100 ST]2T=A@a>kiV69ja4cZd1
+I@:Bc6_VgX7l]V0z7>4JGl0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/modelsim/modelsim_dlx64_10.6c/examples/onecycle
+w1702173541
+8Add.v
+FAdd.v
+L0 1
+Z3 OP;L;10.6c;65
+r1
+!s85 0
+31
+Z4 !s108 1702547107.000000
+!s107 SigExt.v|RF.v|RAM.v|PC.v|CU.v|ROM.v|Mux2.v|Add.v|ALU_CU.v|ALU.v|CPU.v|D:/modelsim/modelsim_dlx64_10.6c/examples/onecycle/CPU_tb.v|
+Z5 !s90 -reportprogress|300|-work|work|-stats=none|D:/modelsim/modelsim_dlx64_10.6c/examples/onecycle/CPU_tb.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+n@add
+vALU
+R0
+!i10b 1
+!s100 cifRll`d`GAR7D`=C4Ho01
+IhG:GdXMJ5dhM<UfR0NlNI3
+R1
+R2
+w1702174471
+8ALU.v
+FALU.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+Z8 !s107 SigExt.v|RF.v|RAM.v|PC.v|CU.v|ROM.v|Mux2.v|Add.v|ALU_CU.v|ALU.v|CPU.v|D:/modelsim/modelsim_dlx64_10.6c/examples/onecycle/CPU_tb.v|
+R5
+!i113 1
+R6
+R7
+n@a@l@u
+vALU_CU
+R0
+!i10b 1
+!s100 >P_=>E5ZgJBLUcM7[UGo>2
+I:Qnd77M]W9RQMeX<G^<Qd0
+R1
+R2
+w1702173544
+8ALU_CU.v
+FALU_CU.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R8
+R5
+!i113 1
+R6
+R7
+n@a@l@u_@c@u
+vALU_tb
+!s110 1702547106
+!i10b 1
+!s100 `kXoGMj@n9g1C@n2P7=3o1
+IA2ZWn4_0oR8OQ2N;@d@]d0
+R1
+R2
+w1702174420
+8D:/modelsim/modelsim_dlx64_10.6c/examples/onecycle/testALU.v
+FD:/modelsim/modelsim_dlx64_10.6c/examples/onecycle/testALU.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1702547106.000000
+!s107 D:/modelsim/modelsim_dlx64_10.6c/examples/onecycle/testALU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/modelsim/modelsim_dlx64_10.6c/examples/onecycle/testALU.v|
+!i113 1
+R6
+R7
+n@a@l@u_tb
+vCPU
+R0
+!i10b 1
+!s100 >jK430?agm3g5Lfc26nh`3
+IocJ0ck7gaXP4ljfII6@:I2
+R1
+R2
+w1702181442
+8CPU.v
+FCPU.v
+L0 11
+R3
+r1
+!s85 0
+31
+R4
+R8
+R5
+!i113 1
+R6
+R7
+n@c@p@u
+vCPU_tb
+R0
+!i10b 1
+!s100 o<HioBjo0lHJj67g@EkI_1
+InHV3aTRldz;IhMoT[F=_S2
+R1
+R2
+w1702181524
+8D:/modelsim/modelsim_dlx64_10.6c/examples/onecycle/CPU_tb.v
+FD:/modelsim/modelsim_dlx64_10.6c/examples/onecycle/CPU_tb.v
+L0 14
+R3
+r1
+!s85 0
+31
+R4
+R8
+R5
+!i113 1
+R6
+R7
+n@c@p@u_tb
+vCU
+R0
+!i10b 1
+!s100 ZkV0IokTM:`Hn2CjID:2b2
+I^99d1KoBEWo?B=Uc0]^TG3
+R1
+R2
+w1702173555
+8CU.v
+FCU.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R8
+R5
+!i113 1
+R6
+R7
+n@c@u
+vMux2
+R0
+!i10b 1
+!s100 H<:lfDjhPjcEI>ATC0cF31
+Imo8DlkMgA[C8IZ<c:11Zg1
+R1
+R2
+w1702173553
+8Mux2.v
+FMux2.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R8
+R5
+!i113 1
+R6
+R7
+n@mux2
+vPC
+R0
+!i10b 1
+!s100 :S;8m>oVVX40]MP_CV`gI1
+I8?g:K3Pb@nN:Uz[Vkk<=G0
+R1
+R2
+w1702181296
+8PC.v
+FPC.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R8
+R5
+!i113 1
+R6
+R7
+n@p@c
+vRAM
+R0
+!i10b 1
+!s100 KSQ99[BA6o1YmCN4R7>6E1
+IczaeG^4Q]CdUk62k<SO9k3
+R1
+R2
+w1702173570
+8RAM.v
+FRAM.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R8
+R5
+!i113 1
+R6
+R7
+n@r@a@m
+vregister
+!s110 1701942242
+!i10b 1
+!s100 I[=0UVl5=[m]<FnzF>;a]1
+IZB1E<?==;R8=]C`46V1000
+R1
+R2
+w1701940776
+8D:/modelsim/modelsim_dlx64_10.6c/examples/onecycle/Reg.v
+FD:/modelsim/modelsim_dlx64_10.6c/examples/onecycle/Reg.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1701942242.000000
+!s107 D:/modelsim/modelsim_dlx64_10.6c/examples/onecycle/Reg.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/modelsim/modelsim_dlx64_10.6c/examples/onecycle/Reg.v|
+!i113 1
+R6
+R7
+vRF
+R0
+!i10b 1
+!s100 48dJJ28=9MQBeK][EM3]92
+I=UeDm@8l[29i=;]f[^NXf3
+R1
+R2
+w1702173579
+8RF.v
+FRF.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R8
+R5
+!i113 1
+R6
+R7
+n@r@f
+vROM
+R0
+!i10b 1
+!s100 G>[zGXUR3Wk_c^I]a2^hz1
+Ill_2C=m`WJ66H<Y2g78fO0
+R1
+R2
+w1702173590
+8ROM.v
+FROM.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R8
+R5
+!i113 1
+R6
+R7
+n@r@o@m
+vSigExt
+R0
+!i10b 1
+!s100 5<h2[]^^^j<R_7Em1]bgJ2
+ITdSm3`i2lPXeMQDm;^A300
+R1
+R2
+w1702173585
+8SigExt.v
+FSigExt.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R8
+R5
+!i113 1
+R6
+R7
+n@sig@ext

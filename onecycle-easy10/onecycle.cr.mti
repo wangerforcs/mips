@@ -1,0 +1,103 @@
+D:/modelsim/modelsim_dlx64_10.6c/examples/onecycle/ROM.v {1 {vlog -work work -stats=none D:/modelsim/modelsim_dlx64_10.6c/examples/onecycle/ROM.v
+Model Technology ModelSim DE-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module ROM
+
+Top level modules:
+	ROM
+
+} {} {}} D:/modelsim/modelsim_dlx64_10.6c/examples/onecycle/CPU.v {1 {vlog -work work -stats=none {D:\modelsim\modelsim_dlx64_10.6c\examples\onecycle\CPU.v}
+Model Technology ModelSim DE-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module CPU
+
+Top level modules:
+	CPU
+
+} {} {}} D:/modelsim/modelsim_dlx64_10.6c/examples/onecycle/RF.v {1 {vlog -work work -stats=none D:/modelsim/modelsim_dlx64_10.6c/examples/onecycle/RF.v
+Model Technology ModelSim DE-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module RF
+
+Top level modules:
+	RF
+
+} {} {}} D:/modelsim/modelsim_dlx64_10.6c/examples/onecycle/RAM.v {1 {vlog -work work -stats=none D:/modelsim/modelsim_dlx64_10.6c/examples/onecycle/RAM.v
+Model Technology ModelSim DE-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module RAM
+
+Top level modules:
+	RAM
+
+} {} {}} D:/modelsim/modelsim_dlx64_10.6c/examples/onecycle/Add.v {1 {vlog -work work -stats=none D:/modelsim/modelsim_dlx64_10.6c/examples/onecycle/Add.v
+Model Technology ModelSim DE-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module Add
+
+Top level modules:
+	Add
+
+} {} {}} D:/modelsim/modelsim_dlx64_10.6c/examples/onecycle/testALU.v {1 {vlog -work work -stats=none D:/modelsim/modelsim_dlx64_10.6c/examples/onecycle/testALU.v
+Model Technology ModelSim DE-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module ALU_tb
+
+Top level modules:
+	ALU_tb
+
+} {} {}} D:/modelsim/modelsim_dlx64_10.6c/examples/onecycle/CPU_tb.v {1 {vlog -work work -stats=none D:/modelsim/modelsim_dlx64_10.6c/examples/onecycle/CPU_tb.v
+Model Technology ModelSim DE-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module CPU
+-- Compiling module ALU
+-- Compiling module ALU_CU
+-- Compiling module Add
+-- Compiling module Mux2
+-- Compiling module ROM
+-- Compiling module CU
+-- Compiling module PC
+-- Compiling module RAM
+-- Compiling module RF
+-- Compiling module SigExt
+-- Compiling module CPU_tb
+
+Top level modules:
+	CPU_tb
+
+} {} {}} D:/modelsim/modelsim_dlx64_10.6c/examples/onecycle/CU.v {1 {vlog -work work -stats=none D:/modelsim/modelsim_dlx64_10.6c/examples/onecycle/CU.v
+Model Technology ModelSim DE-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module CU
+
+Top level modules:
+	CU
+
+} {} {}} D:/modelsim/modelsim_dlx64_10.6c/examples/onecycle/ALU_CU.v {1 {vlog -work work -stats=none D:/modelsim/modelsim_dlx64_10.6c/examples/onecycle/ALU_CU.v
+Model Technology ModelSim DE-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module ALU_CU
+
+Top level modules:
+	ALU_CU
+
+} {} {}} D:/modelsim/modelsim_dlx64_10.6c/examples/onecycle/ALU.v {1 {vlog -work work -stats=none D:/modelsim/modelsim_dlx64_10.6c/examples/onecycle/ALU.v
+Model Technology ModelSim DE-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} D:/modelsim/modelsim_dlx64_10.6c/examples/onecycle/PC.v {1 {vlog -work work -stats=none D:/modelsim/modelsim_dlx64_10.6c/examples/onecycle/PC.v
+Model Technology ModelSim DE-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module PC
+
+Top level modules:
+	PC
+
+} {} {}} D:/modelsim/modelsim_dlx64_10.6c/examples/onecycle/SigExt.v {1 {vlog -work work -stats=none D:/modelsim/modelsim_dlx64_10.6c/examples/onecycle/SigExt.v
+Model Technology ModelSim DE-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module SigExt
+
+Top level modules:
+	SigExt
+
+} {} {}} D:/modelsim/modelsim_dlx64_10.6c/examples/onecycle/Mux2.v {1 {vlog -work work -stats=none D:/modelsim/modelsim_dlx64_10.6c/examples/onecycle/Mux2.v
+Model Technology ModelSim DE-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module Mux2
+
+Top level modules:
+	Mux2
+
+} {} {}}

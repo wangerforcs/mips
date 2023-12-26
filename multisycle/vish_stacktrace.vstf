@@ -1,0 +1,65 @@
+# Current time Wed Dec 20 18:21:32 2023
+# ModelSim DE Stack Trace
+# Program = vish
+# Id = "10.6c"
+# Version = "2017.07"
+# Date = "Jul 26 2017"
+# Platform = win64pe
+
+Exception c0000005 has occurred at address 00030536. Traceback:
+# 0    0x00030536: '<unknown (@0x30536)>'
+# 1    0x1767fb3d: '<unknown (@0x1767fb3d)>'
+# 2    0x1767dd60: '<unknown (@0x1767dd60)>'
+# 3    0x1767fa92: '<unknown (@0x1767fa92)>'
+# 4    0x17682dcd: '<unknown (@0x17682dcd)>'
+# 5    0x1769577f: '<unknown (@0x1769577f)>'
+# 6    0x1769e881: '<unknown (@0x1769e881)>'
+# 7    0x176b0d50: '<unknown (@0x176b0d50)>'
+# 8    0x176b13d8: '<unknown (@0x176b13d8)>'
+# 9    0x6041c5c7: 'Tk_HandleEvent + 0x2a7'
+# 10   0x604c08a5: 'TkDoConfigureNotify + 0x115'
+# 11   0x604c2210: 'Tk_MoveResizeWindow + 0xa0'
+# 12   0x60432c06: 'TkGrabState + 0x4486'
+# 13   0x602f965c: 'TclServiceIdle + 0x9c'
+# 14   0x602cd0c3: 'Tcl_DoOneEvent + 0x133'
+# 15   0x60409ba0: 'TkGetDisplayOf + 0x2000'
+# 16   0x60226c03: 'TclNRRunCallbacks + 0x63'
+# 17   0x63780bfa: 'Itcl_EvalMemberCode + 0x3ba'
+# 18   0x63781dbb: 'Itcl_ExecMethod + 0x23b'
+# 19   0x63789879: 'Itcl_EvalArgs + 0x1c9'
+# 20   0x63784b51: 'Itcl_HandleInstance + 0x2c1'
+# 21   0x60226c03: 'TclNRRunCallbacks + 0x63'
+# 22   0x6022586c: 'TclCleanupCommand + 0x88c'
+# 23   0x60228d4f: 'Tcl_EvalEx + 0x1f'
+# 24   0x603d431a: 'Tk_BindEvent + 0x91a'
+# 25   0x6040bd41: 'TkBindEventProc + 0x291'
+# 26   0x6041c614: 'Tk_HandleEvent + 0x2f4'
+# 27   0x604c08a5: 'TkDoConfigureNotify + 0x115'
+# 28   0x604c2210: 'Tk_MoveResizeWindow + 0xa0'
+# 29   0x60432c06: 'TkGrabState + 0x4486'
+# 30   0x602f965c: 'TclServiceIdle + 0x9c'
+# 31   0x602cd0c3: 'Tcl_DoOneEvent + 0x133'
+# 32   0x60409ba0: 'TkGetDisplayOf + 0x2000'
+# 33   0x60226c03: 'TclNRRunCallbacks + 0x63'
+# 34   0x63780bfa: 'Itcl_EvalMemberCode + 0x3ba'
+# 35   0x63781dbb: 'Itcl_ExecMethod + 0x23b'
+# 36   0x60226c03: 'TclNRRunCallbacks + 0x63'
+# 37   0x63780bfa: 'Itcl_EvalMemberCode + 0x3ba'
+# 38   0x63781dbb: 'Itcl_ExecMethod + 0x23b'
+# 39   0x63789879: 'Itcl_EvalArgs + 0x1c9'
+# 40   0x63784b51: 'Itcl_HandleInstance + 0x2c1'
+# 41   0x60226c03: 'TclNRRunCallbacks + 0x63'
+# 42   0x60226c03: 'TclNRRunCallbacks + 0x63'
+# 43   0x602f92e2: 'TclpRealloc + 0xa02'
+# 44   0x602f965c: 'TclServiceIdle + 0x9c'
+# 45   0x602cd0c3: 'Tcl_DoOneEvent + 0x133'
+# 46   0x6041aee5: 'Tk_MainLoop + 0x25'
+# 47   0x6045d282: 'Tk_MainEx + 0x932'
+# 48   0x401d1bf0: 'Mtirpc_Init + 0x21db0'
+# 49   0x401d4218: 'Mtirpc_Init + 0x243d8'
+# 50   0x405ec23f: 'Tclsqlite_Init + 0x1a5f'
+# 51   0x695d53e0: 'BaseThreadInitThunk + 0x10'
+# 52   0x69da485b: 'RtlUserThreadStart + 0x2b'
+StackWalk failed 0
+# End of Stack Trace
+

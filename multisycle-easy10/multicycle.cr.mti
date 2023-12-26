@@ -1,0 +1,88 @@
+D:/modelsim/modelsim_dlx64_10.6c/examples/multisycle/ALU_CU.v {1 {vlog -work work -stats=none D:/modelsim/modelsim_dlx64_10.6c/examples/multisycle/ALU_CU.v
+Model Technology ModelSim DE-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module ALU_CU
+
+Top level modules:
+	ALU_CU
+
+} {} {}} D:/modelsim/modelsim_dlx64_10.6c/examples/multisycle/CPU_tb.v {1 {vlog -work work -stats=none D:/modelsim/modelsim_dlx64_10.6c/examples/multisycle/CPU_tb.v
+Model Technology ModelSim DE-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module ALU_CU
+-- Compiling module ALU
+-- Compiling module CU
+-- Compiling module Mem
+-- Compiling module Mux2
+-- Compiling module Mux4
+-- Compiling module Reg
+-- Compiling module RF
+-- Compiling module SigExt
+-- Compiling module CPU
+-- Compiling module CPU_tb
+
+Top level modules:
+	CPU_tb
+
+} {} {}} D:/modelsim/modelsim_dlx64_10.6c/examples/multisycle/ALU.v {1 {vlog -work work -stats=none D:/modelsim/modelsim_dlx64_10.6c/examples/multisycle/ALU.v
+Model Technology ModelSim DE-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} D:/modelsim/modelsim_dlx64_10.6c/examples/multisycle/mux4.v {1 {vlog -work work -stats=none D:/modelsim/modelsim_dlx64_10.6c/examples/multisycle/Mux4.v
+Model Technology ModelSim DE-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module Mux4
+
+Top level modules:
+	Mux4
+
+} {} {}} D:/modelsim/modelsim_dlx64_10.6c/examples/multisycle/Reg.v {1 {vlog -work work -stats=none D:/modelsim/modelsim_dlx64_10.6c/examples/multisycle/Reg.v
+Model Technology ModelSim DE-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module Reg
+
+Top level modules:
+	Reg
+
+} {} {}} D:/modelsim/modelsim_dlx64_10.6c/examples/multisycle/Mem.v {1 {vlog -work work -stats=none D:/modelsim/modelsim_dlx64_10.6c/examples/multisycle/Mem.v
+Model Technology ModelSim DE-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module Mem
+
+Top level modules:
+	Mem
+
+} {} {}} D:/modelsim/modelsim_dlx64_10.6c/examples/multisycle/RF.v {1 {vlog -work work -stats=none D:/modelsim/modelsim_dlx64_10.6c/examples/multisycle/RF.v
+Model Technology ModelSim DE-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module RF
+
+Top level modules:
+	RF
+
+} {} {}} D:/modelsim/modelsim_dlx64_10.6c/examples/multisycle/mux2.v {1 {vlog -work work -stats=none D:/modelsim/modelsim_dlx64_10.6c/examples/multisycle/Mux2.v
+Model Technology ModelSim DE-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module Mux2
+
+Top level modules:
+	Mux2
+
+} {} {}} D:/modelsim/modelsim_dlx64_10.6c/examples/multisycle/SigExt.v {1 {vlog -work work -stats=none D:/modelsim/modelsim_dlx64_10.6c/examples/multisycle/SigExt.v
+Model Technology ModelSim DE-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module SigExt
+
+Top level modules:
+	SigExt
+
+} {} {}} D:/modelsim/modelsim_dlx64_10.6c/examples/multisycle/CPU.v {1 {vlog -work work -stats=none D:/modelsim/modelsim_dlx64_10.6c/examples/multisycle/CPU.v
+Model Technology ModelSim DE-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module CPU
+
+Top level modules:
+	CPU
+
+} {} {}} D:/modelsim/modelsim_dlx64_10.6c/examples/multisycle/CU.v {1 {vlog -work work -stats=none D:/modelsim/modelsim_dlx64_10.6c/examples/multisycle/CU.v
+Model Technology ModelSim DE-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module CU
+
+Top level modules:
+	CU
+
+} {} {}}

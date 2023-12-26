@@ -1,0 +1,339 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/modelsim/modelsim_dlx64_10.6c/examples
+vAdd
+Z0 !s110 1703575678
+!i10b 1
+!s100 5@HMl`mo@791kR8;^E0]M3
+I;=0HV[Oe0ZZTGi]OjDLen3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/modelsim/modelsim_dlx64_10.6c/examples/onecycle
+w1703214483
+8D:/modelsim/modelsim_dlx64_10.6c/examples/onecycle/Add.v
+FD:/modelsim/modelsim_dlx64_10.6c/examples/onecycle/Add.v
+L0 1
+Z3 OP;L;10.6c;65
+r1
+!s85 0
+31
+Z4 !s108 1703575678.000000
+!s107 D:/modelsim/modelsim_dlx64_10.6c/examples/onecycle/Add.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/modelsim/modelsim_dlx64_10.6c/examples/onecycle/Add.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+n@add
+vALU
+R0
+!i10b 1
+!s100 nz]]jLVRhaF=J`lW[KQ[D1
+I;l]eKlD9Zl6:4P6D8?Kc@1
+R1
+R2
+w1703575672
+8ALU.v
+FALU.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+Z7 !s107 ALU.v|D:/modelsim/modelsim_dlx64_10.6c/examples/onecycle/ALU_tb.v|
+Z8 !s90 -reportprogress|300|-work|work|-stats=none|D:/modelsim/modelsim_dlx64_10.6c/examples/onecycle/ALU_tb.v|
+!i113 1
+R5
+R6
+n@a@l@u
+vALU_CU
+R0
+!i10b 1
+!s100 TKLGPV`E0;WeG[CXQZ2W13
+IR?Ymz[@K1_l59Xn8iFF[a2
+R1
+R2
+w1703295388
+8ALU_CU.v
+FALU_CU.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+Z9 !s107 BR.v|SigExt.v|RF.v|RAM.v|PC.v|CU.v|ROM.v|Mux2.v|Add.v|ALU_CU.v|ALU.v|CPU.v|D:/modelsim/modelsim_dlx64_10.6c/examples/onecycle/CPU_tb.v|
+Z10 !s90 -reportprogress|300|-work|work|-stats=none|D:/modelsim/modelsim_dlx64_10.6c/examples/onecycle/CPU_tb.v|
+!i113 1
+R5
+R6
+n@a@l@u_@c@u
+vALU_tb
+R0
+!i10b 1
+!s100 ]Kgo8Rl>b1DeHEP5@JahA2
+Iz]LN=zdajUdfHQ^<ZV_1H2
+R1
+R2
+w1703572383
+8D:/modelsim/modelsim_dlx64_10.6c/examples/onecycle/ALU_tb.v
+FD:/modelsim/modelsim_dlx64_10.6c/examples/onecycle/ALU_tb.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+R7
+R8
+!i113 1
+R5
+R6
+n@a@l@u_tb
+vBR
+R0
+!i10b 1
+!s100 YI6L7P7HXT=Y?64FVozF01
+IF2_D@mV=Sl?c2[?=?8[i>0
+R1
+R2
+w1703230821
+8BR.v
+FBR.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R9
+R10
+!i113 1
+R5
+R6
+n@b@r
+vCPU
+R0
+!i10b 1
+!s100 LigI9hkQ0J`1WJOSeSLAo2
+I04:JM7hQI1hXD1f4Ag5z>2
+R1
+R2
+w1703575572
+8CPU.v
+FCPU.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R9
+R10
+!i113 1
+R5
+R6
+n@c@p@u
+vCPU_tb
+R0
+!i10b 1
+!s100 6`DzHPGI2EjciAf?[P[[o1
+IBZ^hDh^cHhbfL9eY>6H3e1
+R1
+R2
+w1703228858
+8D:/modelsim/modelsim_dlx64_10.6c/examples/onecycle/CPU_tb.v
+FD:/modelsim/modelsim_dlx64_10.6c/examples/onecycle/CPU_tb.v
+L0 15
+R3
+r1
+!s85 0
+31
+R4
+R9
+R10
+!i113 1
+R5
+R6
+n@c@p@u_tb
+vCU
+R0
+!i10b 1
+!s100 <[IEZ;zZTCobiT?OOm7j;0
+Ihm9Y=eG0:T41^LF6Z]Xek2
+R1
+R2
+w1703573436
+8CU.v
+FCU.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R9
+R10
+!i113 1
+R5
+R6
+n@c@u
+vMux2
+R0
+!i10b 1
+!s100 2;B2AS<>hlm`k<<Vn85d`3
+IC03d_I7LJm9E@I=4LDX3V0
+R1
+R2
+w1702547588
+8Mux2.v
+FMux2.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R9
+R10
+!i113 1
+R5
+R6
+n@mux2
+vPC
+R0
+!i10b 1
+!s100 :S;8m>oVVX40]MP_CV`gI1
+I8?g:K3Pb@nN:Uz[Vkk<=G0
+R1
+R2
+w1703225946
+8PC.v
+FPC.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R9
+R10
+!i113 1
+R5
+R6
+n@p@c
+vRAM
+R0
+!i10b 1
+!s100 5zhO]D93jT6[1J6PVMTGo1
+IhjYo6LIJiYQ_o@afOFjnc2
+R1
+R2
+w1703228835
+8RAM.v
+FRAM.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R9
+R10
+!i113 1
+R5
+R6
+n@r@a@m
+vregister
+!s110 1701942242
+!i10b 1
+!s100 I[=0UVl5=[m]<FnzF>;a]1
+IZB1E<?==;R8=]C`46V1000
+R1
+R2
+w1701940776
+8D:/modelsim/modelsim_dlx64_10.6c/examples/onecycle/Reg.v
+FD:/modelsim/modelsim_dlx64_10.6c/examples/onecycle/Reg.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1701942242.000000
+!s107 D:/modelsim/modelsim_dlx64_10.6c/examples/onecycle/Reg.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/modelsim/modelsim_dlx64_10.6c/examples/onecycle/Reg.v|
+!i113 1
+R5
+R6
+vRF
+R0
+!i10b 1
+!s100 48dJJ28=9MQBeK][EM3]92
+I=UeDm@8l[29i=;]f[^NXf3
+R1
+R2
+w1702173579
+8RF.v
+FRF.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R9
+R10
+!i113 1
+R5
+R6
+n@r@f
+vROM
+R0
+!i10b 1
+!s100 @Lz4onI9Sjcd9X_?njV?D0
+I``CZJ2GAChFL_BiEK^a642
+R1
+R2
+w1703228845
+8ROM.v
+FROM.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R9
+R10
+!i113 1
+R5
+R6
+n@r@o@m
+vSigExt
+R0
+!i10b 1
+!s100 5<h2[]^^^j<R_7Em1]bgJ2
+ITdSm3`i2lPXeMQDm;^A300
+R1
+R2
+w1702173585
+8SigExt.v
+FSigExt.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R9
+R10
+!i113 1
+R5
+R6
+n@sig@ext

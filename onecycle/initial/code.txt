@@ -1,0 +1,28 @@
+addi $t1, $0, 1
+addi $t2, $0, 1
+ori $t3, $0, 1
+andi $t4, $0, 1
+add $t3,$t1,$t2
+lw $t4, 0($0)
+beq  $t3,$t4,branch
+add $t3, $t1, $t3
+branch:
+add $t2, $t1, $t2
+sub $t3, $t1, $t2
+addu $t3, $t1, $t2
+and $t3, $t1, $t2
+or $t3, $t1, $t2
+slt $t3, $t1, $t2
+sllv $t3, $t2, $t1
+srlv $t3, $t2, $t1
+bgez $t3, branch1
+addi $t1, $0, 1
+branch1:
+addi $t1, $0, 2
+sub $t2, $t3, $t1
+blez $t2, branch2
+addi $t1, $0, 1
+branch2:
+addi $t1, $0, 2
+sll $t3, $t2, 1
+sra $t3, $t2, 1 
